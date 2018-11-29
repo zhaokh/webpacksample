@@ -4,7 +4,8 @@
   "description": "npm init description",
   "main": "index.js",
   "scripts": {
-    "test": "test command"
+    "test": "test command",
+    "start": "webpack"
   },
   "repository": {
     "type": "git",
