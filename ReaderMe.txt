@@ -1,0 +1,2 @@
+v1.3：
+     添加loaders，添加 config.json 重写Greeter.js, 通过json读取变量
