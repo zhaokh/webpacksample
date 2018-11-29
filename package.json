@@ -1,0 +1,27 @@
+{
+  "name": "webpacksample",
+  "version": "1.0.0",
+  "description": "npm init description",
+  "main": "index.js",
+  "scripts": {
+    "test": "test command"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhaokh/webpacksample.git"
+  },
+  "keywords": [
+    "guan",
+    "jian",
+    "zi"
+  ],
+  "author": "zhaokh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhaokh/webpacksample/issues"
+  },
+  "homepage": "https://github.com/zhaokh/webpacksample#readme",
+  "devDependencies": {
+    "webpack": "^4.26.1"
+  }
+}
