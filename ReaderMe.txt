@@ -1,2 +1,8 @@
 v1.3：
      添加loaders，添加 config.json 重写Greeter.js, 通过json读取变量
+v1.4:
+     引入 Babel，
+     // npm一次性安装多个依赖模块，模块之间用空格隔开
+     运行 npm install --save-dev babel-core babel-loader babel-preset-env babel-preset-react
+     运行 npm install --save react react-dom
+     更新 Greeter.js，采用react ex6语法
