@@ -1,3 +1,9 @@
+安装 nodejs
+
+运行 npm init   生成 package.json的配置文件, 不用要，因为已经跟踪会复制过来
+安装 webpack， npm install -g webpack 全局安装，需要运行安装。
+安装 webpack-cli， npm install -g webpack-cli 全局安装
+
 v1.3：
      添加loaders，添加 config.json 重写Greeter.js, 通过json读取变量
 v1.4:
@@ -5,4 +11,5 @@ v1.4:
      // npm一次性安装多个依赖模块，模块之间用空格隔开
      运行 npm install --save-dev babel-core babel-loader babel-preset-env babel-preset-react
      运行 npm install --save react react-dom
+     运行 npm install -g webpack-dev-server
      更新 Greeter.js，采用react ex6语法
